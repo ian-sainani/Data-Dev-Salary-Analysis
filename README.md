@@ -84,7 +84,7 @@ Key observations:
 - Employees in East Asia & Pacific have the largest IQR.
 - Employees in Sub-Saharan Africa have the smallest IQR and overall range.
 
-### Drill down into Regional Salary Distribution Among each Experience Level
+### Drill down into Regional Salary Distribution among each Experience Level
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/c971aeb7-9d38-4f0f-941b-aa0ed2c9ad54">
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/0e4bcd39-0aff-4ac5-adc1-6767eade32eb">
